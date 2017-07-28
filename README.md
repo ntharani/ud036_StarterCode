@@ -25,3 +25,9 @@ You will need an API key to The Movie Database to access the API. To obtain a ke
 # Running the Code
 
 ``` python entertainment_center.py```
+
+# Attribution
+This product uses the TMDb API but is not endorsed or certified by TMDb
+
+![Image of TMDBLogo](https://www.themoviedb.org/assets/static_cache/dd25a8d6d44072f1be5a9daf03470526/images/v4/logos/293x302-powered-by-square-green.png
+)

@@ -113,6 +113,10 @@ main_page_content = '''
       </div>
     </div>
     <div class="container">
+    <p>"This product uses the TMDb API but is not endorsed or certified by TMDb." </p>
+    <img src ="https://www.themoviedb.org/assets/static_cache/dd25a8d6d44072f1be5a9daf03470526/images/v4/logos/293x302-powered-by-square-green.png" alt="logo">
+    </div>
+    <div class="container">
       {movie_tiles}
     </div>
   </body>
