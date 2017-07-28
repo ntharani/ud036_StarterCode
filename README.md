@@ -1,6 +1,6 @@
 # README
 
-This is based of the `ud036_StarterCode` provided by Udacity.
+This is based off the `ud036_StarterCode` provided by Udacity.
 
 # Installation
 
@@ -16,7 +16,7 @@ This is based of the `ud036_StarterCode` provided by Udacity.
 # Getting an API Key
 You will need an API key to The Movie Database to access the API. To obtain a key, follow these steps:
 
-- Register for and verify an account.
+- Register for and verify an account at [https://www.themoviedb.org/](https://www.themoviedb.org/)
 - Log into your account.
 - Select the API section on left side of your account page.
 - Click on the link to generate a new API key and follow the instructions.
